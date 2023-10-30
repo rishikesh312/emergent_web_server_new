@@ -126,10 +126,3 @@ For users who prefer not to use Docker, the native installation method requires 
 #### **5. Troubleshooting**
 
 1. Check logs in `emergent_web_server/pal/em.log` for any issues.
-2. For further assistance, contact `robertovito [at] ufg.br`.
-
----
-
-Thank you for using the EWS artifact! 
-
-**Note**: This reference guide provides a structured and easy-to-follow format based on the given information. It streamlines the process for users to set up and use the EWS tool.
